@@ -9,6 +9,5 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/skswhwo/UICircleAnimationView.git', :tag => s.version.to_s }
   s.ios.deployment_target = '7.0'
   s.source_files     = 'UICircleAnimationView/Classes/**/*.{h,m}'
-  s.resources        = 'UICircleAnimationView/Classes/**/*.{png,bundle,xib,nib}'
   s.requires_arc     = true
 end
