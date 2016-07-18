@@ -27,7 +27,12 @@
     [self initializer];
     return self;
 }
-
+- (id)initWithCoder:(NSCoder *)aDecoder
+{
+    self = [super initWithCoder:aDecoder];
+    [self initializer];
+    return self;
+}
 - (void)initializer
 {
     self.backgroundColor = [UIColor clearColor];

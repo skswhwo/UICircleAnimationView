@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UICircleAnimationView'
-  s.version          = '0.9.0'
+  s.version          = '0.9.1'
   s.platform         = :ios, '7.0'
   s.summary          = 'Circle animating view with a small circle point'
   s.homepage         = 'https://github.com/skswhwo/UICircleAnimationView'
