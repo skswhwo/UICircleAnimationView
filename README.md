@@ -1,7 +1,7 @@
 # UICircleAnimationView
 
 Circle animating view with a small circle point.
-![alt text](https://github.com/skswhwo/UICircleAnimationView/blob/master/sample1.png "demo")
+![alt text](https://github.com/skswhwo/UICircleAnimationView/blob/master/sample1.gif "demo")
 
 ## Installation
 
