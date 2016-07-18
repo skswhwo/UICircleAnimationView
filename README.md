@@ -24,8 +24,8 @@ $ pod install
 + (UICircleAnimationView *)getCircleView:(CGRect)rect;
 ```
 
-```objective-c
 ### Trigger
+```objective-c
 - (void)strokeCircleTo:(NSInteger)currunt total:(NSInteger)total withAnimate:(BOOL)animate;
 ```
 
